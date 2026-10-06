@@ -1,0 +1,7 @@
+playwright
+pystray
+pillow
+pyotp
+winotify
+zxing-cpp
+pyinstaller
